@@ -1,0 +1,4 @@
+1.SHUBHAM PATHAK  - Graph Implementation ,Shortest Path, Database Connectivity
+2.HARSH SHUKLA    - MYSQL Indexing, Database Connectivity
+3.DARSHAN SALECHA - Algorithm (Route And Fare calculation), File Handling
+4.KAJAL CHAUDHARY - File Handling,MYSQL Indexing

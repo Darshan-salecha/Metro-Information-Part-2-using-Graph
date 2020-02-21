@@ -1,0 +1,41 @@
+
+Metro Information System Software provides the customers of metro 
+services with lot of useful information that helpsin using the metro
+services. Following are the different sectioms in the software and 
+the information available in them.
+
+Routes between stations-Selecting the starting and destination stations
+will display the user the fare with change over stations which would be 
+shortest among all the path available.
+
+Station Information-Selecting station will gave you various useful 
+information about the station like line at which lies,Timings,route
+at which it lies. 
+
+Lost and Found-This software provides the user facility to search for 
+their valuables which they might have lost in any station.Also user 
+can register for the product which they found in metro premisis.
+
+
+
+
+This software is designed in such a manner that every functionality
+is provided in an optimal way. Keeping requirement,space complexity 
+and time complexity in concern optimal data structure and efficient
+database is used.
+
+DATABASE: MYSQL 5.0 is used in order to store the data and access the 
+same as per requirement. In order to achieve the better time complexity
+in searching operation indexing is done.
+
+DATA STRUCTURE: Along with certain linear data structure like array,
+list or array of list , Non linear data structure ie. graph is used 
+in function to provide user the connectivity of station is same fashion
+as in real world.
+
+FILE HANDLING: In order to display large text file is used in project.
+
+ALGORITHM: All the algorithm used in this project is are of optimum
+time and space complexity.Project is designed in such a manner so
+as to reduce the lines of code,time and space complexity and make it
+more understandable.
